@@ -19,5 +19,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jack Nussbaum",
+    "section": "",
+    "text": "Brief description of me.\n\n\nMacalester College | St. Paul MN  B.A. in Data Science | Sept 2023 - May 2027"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jack Nussbaum",
+    "section": "",
+    "text": "Macalester College | St. Paul MN  B.A. in Data Science | Sept 2023 - May 2027"
   }
 ]

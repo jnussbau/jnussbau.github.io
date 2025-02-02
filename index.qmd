@@ -7,16 +7,12 @@ about:
 
 ### This content appears above the formatted about page content.
 
-:::{#intro-heading}
-
+::: {#intro-heading}
 Brief description of me.
 
 ## Education
 
-Macalester College | St. Paul MN <br>
-B.A. in Data Science | Sept 2023 - May 2027
-
+Macalester College \| St. Paul MN <br> B.A. in Data Science \| Sept 2023 - May 2027
 :::
 
 ### This content appears below the formatted about page content.
-
