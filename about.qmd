@@ -1,9 +1,19 @@
 ---
-title: "About"
+title: "Jack Nussbaum"
+about:
+  template: solana
+  image: images/profile.jpg
 ---
 
-About this site
+### This content appears above the formatted about page content.
 
-```{r}
-1 + 1
-```
+::: {#intro-heading}
+Brief description of me.
+
+## Education
+
+Macalester College \| St. Paul MN <br> B.A. in Data Science \| Sept 2023 - Present
+:::
+
+### This content appears below the formatted about page content.
+
